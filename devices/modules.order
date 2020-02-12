@@ -1,0 +1,2 @@
+kernel//usr/src/etherlab/devices/ec_generic.ko
+kernel//usr/src/etherlab/devices/ec_r8169.ko

@@ -1,0 +1,4 @@
+kernel//usr/src/etherlab/examples/mini/ec_mini.ko
+kernel//usr/src/etherlab/master/ec_master.ko
+kernel//usr/src/etherlab/devices/ec_generic.ko
+kernel//usr/src/etherlab/devices/ec_r8169.ko

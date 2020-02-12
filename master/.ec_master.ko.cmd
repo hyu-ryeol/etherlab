@@ -1,0 +1,1 @@
+cmd_/usr/src/etherlab/master/ec_master.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /usr/src/etherlab/master/ec_master.ko /usr/src/etherlab/master/ec_master.o /usr/src/etherlab/master/ec_master.mod.o ;  true

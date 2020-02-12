@@ -1,0 +1,1 @@
+cmd_/usr/src/etherlab/examples/mini/ec_mini.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /usr/src/etherlab/examples/mini/ec_mini.ko /usr/src/etherlab/examples/mini/ec_mini.o /usr/src/etherlab/examples/mini/ec_mini.mod.o ;  true
