@@ -1,0 +1,10 @@
+EtherCAT Mailbox Gateway server.
+
+Provides for UDP and up to 16 TCP connections.  The connections
+are not multi-threaded.
+
+Specification:
+https://www.ethercat.org/memberarea/download/ETG8200_V1i0i0_G_R_MailboxGateway.pdf
+
+To be used with tools such as:
+https://download.beckhoff.com/download/document/automation/twinsafe/twinsafe_loader_en.pdf
